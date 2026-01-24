@@ -1,7 +1,5 @@
 # OffSec Proving Grounds Practice - Write-up Portfolio
 
-![PG Logo](https://www.offsec.com/wp-content/uploads/2022/08/pg-logo.png)
-
 ## 📌 Overview
 This repository contains detailed write-ups for OffSec Proving Grounds Practice machines. Each write-up follows a structured methodology from reconnaissance to privilege escalation, demonstrating practical penetration testing skills in real-world scenarios.
 
